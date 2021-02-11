@@ -2,3 +2,18 @@
 GitExplorer/GitExplorer.xcodeproj/project.xcworkspace/xcuserdata/iliescurazvan.xcuserdatad/UserInterfaceState.xcuserstate
 .DS_Store
 GitExplorer/GitExplorer.xcodeproj/project.xcworkspace/contents.xcworkspacedata
+# Mac OS X
+*.DS_Store
+
+# Xcode
+*.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+*.xcuserstate
+*.xcworkspace/
+project.xcworkspace/
+xcuserdata/
+
+# Podfiles
+Pods/
